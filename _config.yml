@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jorge's webpage
-description: Bookmark this to keep an eye on my project updates!
+
+baseurl: ""
+url: "https://jgata.github.io"
